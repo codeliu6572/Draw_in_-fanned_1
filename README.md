@@ -1,6 +1,8 @@
 # Draw_in_fanned_1
 绘制扇形
 
+![image](https://github.com/codeliu6572/Draw_in_fanned_1/blob/master/绘制扇形/1.gif)
+
 原理：1.使用贝塞尔曲线决定绘制圆的路径和角度； 
       2.用CAShapeLayer来重合贝塞尔曲线的路径; 
       3.用基础动画来实现绘制的动态性。
